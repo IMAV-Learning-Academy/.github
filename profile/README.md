@@ -43,7 +43,7 @@ We provide a wide array of courses across various technology domains and learnin
 * **Accredited & Certified:** Learn with confidence from an internationally recognized academy.
 
 ## 🚀 Get Started
-
+* **Our Accredations:** [Overview](our-accreditations/overview.md) 
 * **Visit our Website:** [IMAV LEARNING ACADEMY](https://imav.world)
 * **Explore our Course Catalog:** [Our Courses](https://imav-learning-academy.com/courses)
 * **Contact Us:** [eMail](info@imav.world)
