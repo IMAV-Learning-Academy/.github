@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="LOGO" width="500" height="500">
+  <img src="https://github.com/IMAV-Learning-Academy/.github/blob/83cb774f727ce30d6579d0663d7e63cd055f9841/logo.png" alt="LOGO" width="500" height="500">
 </p>
 
 
